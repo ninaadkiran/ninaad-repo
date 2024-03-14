@@ -30,12 +30,12 @@ Use the templates below to **assist in grading and retrospection** with Review T
 ### Team
 
 | Crossover Score | Runtime | Plan | GitHub | Analytics |
-| 0.87 | [Binary Calculator](https://nighthawkcoders.github.io/teacher_portfolio//c4.4/2023/09/14/javascript-binary-U2-1.html) | [Binary Logic](https://nighthawkcoders.github.io/teacher_portfolio//1.d/2.b/3.c/c4.4/2023/11/14/CSP-binary_logic.html) | [teacher_portfolio](https://github.com/nighthawkcoders/teacher_portfolio) | [Deployments](https://github.com/nighthawkcoders/teacher_portfolio/deployments)
+| 0.87 | [Binary Calculator](https://nighthawkcoders.github.io/ninaad-repo//c4.4/2023/09/14/javascript-binary-U2-1.html) | [Binary Logic](https://nighthawkcoders.github.io/ninaad-repo//1.d/2.b/3.c/c4.4/2023/11/14/CSP-binary_logic.html) | [ninaad-repo](https://github.com/nighthawkcoders/ninaad-repo) | [Deployments](https://github.com/nighthawkcoders/ninaad-repo/deployments)
 
 ### Individuals 
 
 | Name | Team+Indi+Teacher | Runtime | Issues | Key Commit(s) | Analytics |
-| John M | 1.71=0.87+0.84+? | [Binary Calculator](https://nighthawkcoders.github.io/teacher_portfolio//c4.4/2023/09/14/javascript-binary-U2-1.html) | [CORS example](https://github.com/nighthawkcoders/flask_portfolio/issues/42#issuecomment-1847595229) | [SASS buttons](https://github.com/nighthawkcoders/teacher_portfolio/commit/f43211b97d4d50e79cf15d6ae470c0fef241dfc5), [Binary Source](https://raw.githubusercontent.com/nighthawkcoders/teacher_portfolio/bf145ebe8113f0e009494ed736324aa276b8913b/_posts/2023-09-14-javascript-binary-U2-1.md) | [Commits](https://github.com/nighthawkcoders/teacher_portfolio/commits?author=jm1021), [Profile](https://github.com/jm1021)|
+| John M | 1.71=0.87+0.84+? | [Binary Calculator](https://nighthawkcoders.github.io/ninaad-repo//c4.4/2023/09/14/javascript-binary-U2-1.html) | [CORS example](https://github.com/nighthawkcoders/flask_portfolio/issues/42#issuecomment-1847595229) | [SASS buttons](https://github.com/nighthawkcoders/ninaad-repo/commit/f43211b97d4d50e79cf15d6ae470c0fef241dfc5), [Binary Source](https://raw.githubusercontent.com/nighthawkcoders/ninaad-repo/bf145ebe8113f0e009494ed736324aa276b8913b/_posts/2023-09-14-javascript-binary-U2-1.md) | [Commits](https://github.com/nighthawkcoders/ninaad-repo/commits?author=jm1021), [Profile](https://github.com/jm1021)|
 
 
 ### Crossover Grade (25 minutes)

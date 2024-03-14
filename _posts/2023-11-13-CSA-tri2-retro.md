@@ -30,12 +30,12 @@ Use the templates below to **assist in grading and retrospection** with Review T
 ### Team
 
 | Crossover Score | Runtime | Plan | GitHub | Analytics |
-| 0.87 | [Fibonacci Frontend](https://thymeleaf.nighthawkcodingsociety.com/mvc/fibonacci?fibseq=7) | http://127.0.0.1:4100/teacher_portfolio//2023/11/13/CSA-tri2-analysis.html | [nighthawk_csa](https://github.com/nighthawkcoders/nighthawk_csa) | [Commits](https://github.com/nighthawkcoders/nighthawk_csa/commits/master)
+| 0.87 | [Fibonacci Frontend](https://thymeleaf.nighthawkcodingsociety.com/mvc/fibonacci?fibseq=7) | http://127.0.0.1:4100/ninaad-repo//2023/11/13/CSA-tri2-analysis.html | [nighthawk_csa](https://github.com/nighthawkcoders/nighthawk_csa) | [Commits](https://github.com/nighthawkcoders/nighthawk_csa/commits/master)
 
 ### Individuals 
 
 | Name | Team+Indi+Teacher | Runtime | Issues | Key Commit(s) | Analytics |
-| John M | 1.71=0.87+0.84+? | [Binary Calculator](https://nighthawkcoders.github.io/teacher_portfolio//c4.4/2023/09/14/javascript-binary-U2-1.html) | [CORS example](https://github.com/nighthawkcoders/flask_portfolio/issues/42#issuecomment-1847595229) | [SASS buttons](https://github.com/nighthawkcoders/teacher_portfolio/commit/f43211b97d4d50e79cf15d6ae470c0fef241dfc5), [Binary Source](https://raw.githubusercontent.com/nighthawkcoders/teacher_portfolio/bf145ebe8113f0e009494ed736324aa276b8913b/_posts/2023-09-14-javascript-binary-U2-1.md) | [Commits](https://github.com/nighthawkcoders/teacher_portfolio/commits?author=jm1021), [Profile](https://github.com/jm1021)|
+| John M | 1.71=0.87+0.84+? | [Binary Calculator](https://nighthawkcoders.github.io/ninaad-repo//c4.4/2023/09/14/javascript-binary-U2-1.html) | [CORS example](https://github.com/nighthawkcoders/flask_portfolio/issues/42#issuecomment-1847595229) | [SASS buttons](https://github.com/nighthawkcoders/ninaad-repo/commit/f43211b97d4d50e79cf15d6ae470c0fef241dfc5), [Binary Source](https://raw.githubusercontent.com/nighthawkcoders/ninaad-repo/bf145ebe8113f0e009494ed736324aa276b8913b/_posts/2023-09-14-javascript-binary-U2-1.md) | [Commits](https://github.com/nighthawkcoders/ninaad-repo/commits?author=jm1021), [Profile](https://github.com/jm1021)|
 
 
 ### Crossover Grade (25 minutes)
